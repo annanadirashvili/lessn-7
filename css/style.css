@@ -2,3 +2,92 @@
     width: 1920px;
     height: 1187px;
 }
+.name {
+    font-size: 32px;
+    margin-left: 132px;
+    margin-right: 725px;
+    margin-top: 67px;
+    /* margin-bottom: 285px; */
+    color: #4B647E;
+    vertical-align: top;
+    width: 185px;
+    height: 39px;
+}
+.span {
+    color: #3D37F1;
+
+}
+.div-navigation {
+    vertical-align: top;
+    margin-top: 82px;
+}
+
+.navigation {
+    margin-left: 725px;
+    display: flex;
+    justify-content: space-between;
+    width: 581px;
+    height: 24px;
+    vertical-align: top;
+}
+.nav {
+    color: #3D37F1;
+    font-size: 20px;
+}
+.title-div {
+    width: 600px;
+    height: 203px;
+    margin-left: 132px;
+    margin-top: 285px;
+    margin-bottom: 42px;
+    
+}
+.title {
+    font-size: 78px;
+    width: 600px;
+    height: 203px;
+    color: #534D4D;
+    font-weight: 900;
+}
+.title2-div {
+    width: 602px;
+    height: 103px;
+    margin-left: 132px;
+    font-size: 22px;
+    color: #534D4D;
+    margin-bottom: 106px;
+}
+.div-wave {
+
+    width: 263.67px;
+    height: 76.77px;
+    background-color: #3D37F1;
+    margin-left: 132px;
+    margin-top: 83.9;
+    border-radius: 38px;
+  
+
+}
+.wave-img {
+    width: 30.29px;
+    height: 30.97px;
+    margin-left: 43px;
+    margin-top: 22.1px;
+    vertical-align: top;
+}
+.text-wave {
+    width: 106px ;
+    height: 32px;
+    font-size: 23px;
+    color: #FFFFFF ;
+    margin-left: 24.7px;
+    margin-top: 22.1px;
+    margin-bottom: 22.6px;
+    vertical-align: top;
+}
+.image {
+    margin-left: 307px;
+    margin-top: 267px;
+    width: 801px;
+    height: 526.63px;
+}
