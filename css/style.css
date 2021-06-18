@@ -1,3 +1,8 @@
+/* .header {
+    position: fixed;
+    z-index: 1;
+} */
+
 .section1 {
     width: 1920px;
     height: 1187px;
@@ -159,4 +164,126 @@ background-color: #FBBA77;
 }
 .box6 {
     background-color:#FF8088;
+}
+.data-image {
+    width: 100px;
+    height: 99.89px;
+    margin-top: 88px;
+    margin-left: 134px;
+}
+.web {
+    margin-top: 57px;
+    margin-left: 124.6px;
+    margin-bottom: 13.2px;
+    width: 106px;
+    height: 27px;
+    font-size: 22px ;
+    color: #FFFFFF;
+}
+.P-box {
+    width: 328px;
+    height: 62px;
+    margin-left: 21px ;
+    font-size: 16px;
+    color: #FFFFFF;
+    text-align: center;
+}
+.div-read {
+    width: 131px;
+    height: 45px;
+    border-radius: 23px;
+    background-color: #FFFFFF;
+    margin-left: 119px;
+    margin-top: 11px;
+    display: flex;
+    Display: flex;
+    Justify-content: center; 
+    Align-items: center; 
+ }
+.read {
+    width: 72px ;
+    height: 20px;
+    font-size: 15px;
+    color: #4B647E;
+   
+}
+.paint-image {
+    width: 100px;
+    height: 108.12px;
+    margin-top: 88px;
+    margin-left: 127.9px ;
+}
+.design {
+
+    margin-top: 48.8px;
+    margin-left: 131.6px;
+    margin-bottom: 13.1px;
+    width: 92px;
+    height: 27px;
+    font-size: 22px ;
+    color: #FFFFFF;
+}
+.phone-image {
+    width: 100px;
+    height: 115.34px;
+    margin-top: 88px;
+    margin-left: 137.5px ;
+}
+
+.Application {
+    margin-top: 41.6px ;
+    margin-left: 109.6px;
+    margin-bottom: 13.1px; 
+    width: 136px;
+    height: 27px;
+    font-size: 22px;
+    color: #FFFFFF;
+
+}
+.app-image {
+    width: 100px ;
+    height: 105.98px;
+    margin-top: 73px;
+    margin-left: 136px;
+}
+.mobileapp {
+width: 138px ;
+height: 27px;
+margin-top: 66px ;
+margin-left: 108px;
+margin-bottom:13.1px ;
+font-size: 22px ;
+color: #FFFFFF;
+}
+.domain-image {
+    width: 100px;
+    height:90.43px ;
+    margin-top: 92px;
+    margin-left: 136px;
+}
+.web-app {
+
+width: 116px;
+height: 27px;
+margin-top: 62.5px;
+margin-left: 119.px;
+margin-bottom: 13.6px;
+font-size: 22px;
+color: #FFFFFF;
+
+}
+.repair-image {
+    width: 100px;
+    height: 100px;
+    margin-top: 87px ;
+    margin-left:134.3px ;
+}
+.elements {
+    width: 140px;
+    height: 27px;
+    margin-top: 57.9px;
+    margin-left: 107.6px;
+    margin-bottom:13.1px ;
+    font-size: 22px;
+    color: #FFFFFF;
 }
