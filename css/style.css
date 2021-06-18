@@ -1,6 +1,7 @@
 .section1 {
     width: 1920px;
     height: 1187px;
+    margin-bottom: 65px;
 }
 .name {
     font-size: 32px;
@@ -90,4 +91,37 @@
     margin-top: 267px;
     width: 801px;
     height: 526.63px;
+}
+.section2 {
+    width: 1920px;
+    height: 1443.67px;
+    display: flex;
+    Align-items: center; 
+    flex-direction: column;
+
+}
+.section2-services {
+    margin: 87px 890px 17px;
+    width: 140px;
+    height: 24px;
+    color: #3D37F1;
+    /* font-size: 20px; */
+}
+.section2-title {
+    width: 578px;
+    height: 48px;
+    font-size: 40px;
+}
+.paragraph {
+    width: 712px;
+    height: 85px;
+    
+}
+
+.section2-text {
+    color: #747474;
+    font-size: 18px;
+    text-align: center;
+    width: 712px;
+    height: 85px;
 }
