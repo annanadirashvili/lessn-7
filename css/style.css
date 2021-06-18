@@ -125,3 +125,38 @@
     width: 712px;
     height: 85px;
 }
+.section-boxes {
+    width: 1169px;
+    height: 964px;
+    display: flex;
+    Align-items: center; 
+    flex-wrap: wrap;
+    justify-content: space-between;
+ 
+}
+.box {
+    width: 370px;
+    height: 451px;
+    
+}
+.top {
+    margin-bottom: 60px;
+}
+.box1 {
+background-color: #FBBA77;
+}
+.box2 {
+    background-color: #41EAE3;
+}
+.box3 {
+    background-color:#69529F;
+}
+.box4  {
+    background-color:#4386D2;
+}
+.box5 {
+    background-color:#A5A2F6;
+}
+.box6 {
+    background-color:#FF8088;
+}
